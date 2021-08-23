@@ -1,0 +1,16 @@
+{
+  "name": "scientia_app_server",
+  "version": "1.0.0",
+  "description": "a push notification server for the scientia.ro mobile app using FCM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crackerOil",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.11.1",
+    "rss-parser": "^3.12.0"
+  },
+  "type":"module"
+}
